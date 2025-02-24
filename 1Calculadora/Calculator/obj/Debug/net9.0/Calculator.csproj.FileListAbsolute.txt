@@ -1,0 +1,15 @@
+C:\Temp\CSharpIniciante\1Calculadora\Calculator\bin\Debug\net9.0\Calculator.exe
+C:\Temp\CSharpIniciante\1Calculadora\Calculator\bin\Debug\net9.0\Calculator.deps.json
+C:\Temp\CSharpIniciante\1Calculadora\Calculator\bin\Debug\net9.0\Calculator.runtimeconfig.json
+C:\Temp\CSharpIniciante\1Calculadora\Calculator\bin\Debug\net9.0\Calculator.dll
+C:\Temp\CSharpIniciante\1Calculadora\Calculator\bin\Debug\net9.0\Calculator.pdb
+C:\Temp\CSharpIniciante\1Calculadora\Calculator\obj\Debug\net9.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\CSharpIniciante\1Calculadora\Calculator\obj\Debug\net9.0\Calculator.AssemblyInfoInputs.cache
+C:\Temp\CSharpIniciante\1Calculadora\Calculator\obj\Debug\net9.0\Calculator.AssemblyInfo.cs
+C:\Temp\CSharpIniciante\1Calculadora\Calculator\obj\Debug\net9.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Temp\CSharpIniciante\1Calculadora\Calculator\obj\Debug\net9.0\Calculator.sourcelink.json
+C:\Temp\CSharpIniciante\1Calculadora\Calculator\obj\Debug\net9.0\Calculator.dll
+C:\Temp\CSharpIniciante\1Calculadora\Calculator\obj\Debug\net9.0\refint\Calculator.dll
+C:\Temp\CSharpIniciante\1Calculadora\Calculator\obj\Debug\net9.0\Calculator.pdb
+C:\Temp\CSharpIniciante\1Calculadora\Calculator\obj\Debug\net9.0\Calculator.genruntimeconfig.cache
+C:\Temp\CSharpIniciante\1Calculadora\Calculator\obj\Debug\net9.0\ref\Calculator.dll
